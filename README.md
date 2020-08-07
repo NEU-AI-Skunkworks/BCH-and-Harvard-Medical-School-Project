@@ -18,6 +18,6 @@ Segmentation of major brain white matter tracts is essential in studying brain d
 Please fill out the form:
 https://forms.office.com/Pages/ResponsePage.aspx?id=gcLuqKOqrk2sm5o5i5IV52PXxpsXCd9MoG8dFRYB16pUQkVNS0dVQ0NCTktOMlhKWjdZN05aNzlFRS4u
 
-## Project: Prof Nik Bear Brown
+#### Project Head: Prof Nik Bear Brown
 
 # Thank you!
