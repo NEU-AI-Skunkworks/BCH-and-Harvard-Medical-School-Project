@@ -11,7 +11,13 @@ Real-time assessment of the quality of diffusion-weighted images is very importa
 Existing methods for estimating brain fiber orientations use mathematical models that are based on the physics of the diffusion process. We seek machine-learning-based methods that avoid relying on such models, which can be sub-optimal or even wrong.
 
 ## Fetal and newborn brain tract segmentation using deep learning
-Segmentation of major brain white matter tracts is essential in studying brain development and degeneration. The common methods to accomplish this task involve complex multi-step procedure. We
-would like to explore the potential of deep learning to replace these complex pipelines.
+Segmentation of major brain white matter tracts is essential in studying brain development and degeneration. The common methods to accomplish this task involve complex multi-step procedure. We would like to explore the potential of deep learning to replace these complex pipelines.
 
 ## Deep learning-based spherical deconvolution for fiber orientation distribution
+
+Please fill out the form:
+https://forms.office.com/Pages/ResponsePage.aspx?id=gcLuqKOqrk2sm5o5i5IV52PXxpsXCd9MoG8dFRYB16pUQkVNS0dVQ0NCTktOMlhKWjdZN05aNzlFRS4u
+
+## Project: Prof Nik Bear Brown
+
+# Thank you!
