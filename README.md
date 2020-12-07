@@ -15,9 +15,6 @@ Segmentation of major brain white matter tracts is essential in studying brain d
 
 ## Deep learning-based spherical deconvolution for fiber orientation distribution
 
-Please fill out the form:
-https://forms.office.com/Pages/ResponsePage.aspx?id=gcLuqKOqrk2sm5o5i5IV52PXxpsXCd9MoG8dFRYB16pUQkVNS0dVQ0NCTktOMlhKWjdZN05aNzlFRS4u
-
 #### Project Head: Prof Nik Bear Brown
 
 ### Thank you!
